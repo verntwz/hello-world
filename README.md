@@ -1,2 +1,2 @@
 # hello-world
-first git hub repository
+gibberish here and there from the internet
